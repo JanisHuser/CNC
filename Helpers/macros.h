@@ -1,3 +1,11 @@
+/*
+ * macros.h
+ *
+ *  Created on: 26.12.2019
+ *      Author: p.grus
+ *      Purpose: Contains some useful methods
+ *      source: https://github.com/ProductiveGrus2/CNC/edit/master/Helpers/macros.h
+ */
 #ifndef __MACROS_H__
 #define __MACROS_H__
 
